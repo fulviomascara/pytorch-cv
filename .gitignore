@@ -1,2 +1,2 @@
 dataset/
-notebook/*.ckpt
+notebook/model.ckpt
