@@ -13,7 +13,7 @@
 - Detect faces in a image, using another CNN
 - Train and validate, using only face detected
 
-The architecture of the neural network created in this notebook is based on paper "Facial Expression Recognition Research Based on Deep Learning"<br/>Yongpei Zhu, Hongwei Fan, Kehong Yuan1
+The architecture of the neural network created in this notebook is based on paper "Facial Expression Recognition Research Based on Deep Learning" by Yongpei Zhu, Hongwei Fan, Kehong Yuan
 
 Link: https://arxiv.org/pdf/1904.09737v1.pdf
 
